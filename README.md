@@ -1,1 +1,1 @@
-# webpack-sample
+# Simple example using webpack + karma + sinon
