@@ -1,0 +1,9 @@
+{
+    "bikes": [{
+        "name": "Bike 1",
+        "someOtherStuff": "bla bla"
+    }, {
+        "name": "Bike 2",
+        "someOtherStuff": "bla bla bla"
+    }]
+}
